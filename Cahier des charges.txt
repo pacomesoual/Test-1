@@ -1,0 +1,17 @@
+Déplacer selon une frame de réference, vaisseau ou espace.
+
+Prendre et poser/utiliser un objet principal
+
+Prendre et poser des ressources.
+
+Une barre de vie qui peut monter et déscendre, le personnage meurs si il atteint 0 pv.
+
+Une barre d’oxygène qui monte et descend selon l’environnement, le perso perd des pv si elle atteint 0 (progressivement).
+
+Peut prendre le controle d’un module pilotable.
+
+Peut intéragir avec d’autre elements de l’environement (ex : Un bouton/levier)
+
+Chaque Pejo est controllé par un joueur différent simulanément.
+
+Possibilité de Miner & Réparer des blocs.
