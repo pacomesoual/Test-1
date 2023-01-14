@@ -1,0 +1,19 @@
+# Vaisseau
+
+Construction bloc par bloc.
+
+Formation de “Pièces” différentes (Un espace entouré intégralement de blocs solides et composé principalement de blocs d’intérieur, délimité par des blocs solides et une/des portes) Important pour l’oxygène. si c’est trop chiant on le dégage.
+
+Possiblité d’endommager ou de réparer les blocs.
+
+Controller grace a des modules (machines), notament pour :
+
+- Déplacer le vaisseau a l’aide de blocs réacteurs/fusées.
+- Tirer avec des armes
+
+Fonctionner avec des modules automatiques tel que :
+
+- le coeur, qui alimente le vaisseau et gère la chaleur.
+- L’oxygènateur (optionel pour l’instant) fournit de l’oxygène.
+
+être modifié/construit dans un chantier.
