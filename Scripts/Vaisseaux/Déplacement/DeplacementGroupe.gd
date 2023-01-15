@@ -18,7 +18,7 @@ func _physics_process(delta):
 	
 	lastFrameVelocity = velocity #Tentative #1 du système d'inertie.
 #	Definition de InputMovement comme étant le vector2 représentant les inputs du joueur.
-	InputMovement = Vector2(0 + int(Input.is_action_pressed("right0")) - int(Input.is_action_pressed("left0")),0 + int(Input.is_action_pressed("down0")) - int(Input.is_action_pressed("up0")))
+	InputMovement = Vector2(0 + int(Input.is_action_pressed("Krigh")) - int(Input.is_action_pressed("Kleft")),0 + int(Input.is_action_pressed("Kdown")) - int(Input.is_action_pressed("Kup")))
 
 #	Normalization du mouvement pour s'assurer que la vitesse ne dépasse pas :
 	if(InputMovement.length() >1):
