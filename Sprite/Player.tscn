@@ -4,7 +4,7 @@
 [ext_resource path="res://Sprite/sprite_player_l.png" type="Texture" id=2]
 [ext_resource path="res://Sprite/sprite_player_r.png" type="Texture" id=3]
 [ext_resource path="res://Sprite/sprite_player_d.png" type="Texture" id=4]
-[ext_resource path="res://Player.gd" type="Script" id=5]
+[ext_resource path="res://Movement_space.gd" type="Script" id=5]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 6, 16 )
